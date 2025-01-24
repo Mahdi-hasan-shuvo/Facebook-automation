@@ -4,7 +4,7 @@ This project automates tasks on Facebook using Python. It leverages the power of
 
 ## Features
 
-- ** Automation Post**: Automatically Delete facebook Group post .
+- **Automation Post**: Automatically Delete facebook Group post .
 - **group_leav**: On this account leave from groups a .
 
 
