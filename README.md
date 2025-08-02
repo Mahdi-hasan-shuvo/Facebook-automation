@@ -26,3 +26,14 @@ pip install selenium beautifulsoup4 requests
 
 # python post_delete.py
 ![image](https://github.com/user-attachments/assets/d345514b-4de6-4bb9-ad84-e96386bd173f)
+---
+
+## 💼 Contact Me for Paid Projects
+
+Have a project in mind or need expert help? I'm available for **freelance work and paid collaborations**. Let's bring your ideas to life with clean code and creative solutions.
+
+📩 **Email**: [shuvobbhh@gmail.com]  
+💬 **Telegram / WhatsApp**: [+8801616397082]  
+🌐 **Portfolio / Website**: [[Portfolio](https://mahdi-hasan-shuvo.github.io/Mahdi-hasan-shuvo/)]
+
+> *"Quality work speaks louder than words. Let's build something remarkable together."*
